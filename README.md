@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DS Lab Assignment
 **Name:** Karan Pullagal  
 **Roll No:** MA2411020010018  
