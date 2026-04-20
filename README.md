@@ -21,8 +21,4 @@
 * **Q2.** Complex String Manipulation with Duplicate Handling
 * **Q4.** Data Type Optimization Challenge 
 
-### Note
-Code files can be run independently after producing dataset files via `python setup_datasets.py`.
-=======
-# DS_Lab_Assignment_RA2411029010014
->>>>>>> 8fdd82b4edeb2b8a7edcd50827fd9fdb147b2224
+
