@@ -9,12 +9,12 @@ def create_doc():
     
     # Details
     doc.add_paragraph("Name: Karan Pullagal")
-    doc.add_paragraph("Roll Number: RA2411029010014")
+    doc.add_paragraph("Roll Number: MA2411020010018")
     doc.add_paragraph("Class: B.Tech CSE (Core)")
     
     p_repo = doc.add_paragraph("GitHub Repository Link: ")
     # Clickable link placeholder
-    p_repo.add_run("https://github.com/KaranPullagal/DS_Lab_Assignment_RA2411029010014").underline = True
+    p_repo.add_run("https://github.com/KaranP315/DS_Lab_Assignment_MA2411020010018").underline = True
     
     doc.add_paragraph("Question Numbers Attempted: Q1, Q2, Q6")
     doc.add_page_break()
@@ -83,7 +83,7 @@ def create_doc():
     q6_ins = "Pivoting immediately turns high-volume dimension rows into interpretable aggregated cross-tabulations making it easier to analyze performance comparatively."
     add_question_section("Q6", q6_prob, q6_app, "Q6_multi_file_wrangling.py", "Q6_out.txt", q6_chall, q6_ins)
     
-    doc.save("RA2411029010014_KaranPullagal_DS_Lab_Assignment.docx")
+    doc.save("MA2411020010018_KaranPullagal_DS_Lab_Assignment.docx")
 
 if __name__ == "__main__":
     create_doc()

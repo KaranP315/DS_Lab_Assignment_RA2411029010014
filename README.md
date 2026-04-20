@@ -1,6 +1,7 @@
+<<<<<<< HEAD
 # DS Lab Assignment
 **Name:** Karan Pullagal  
-**Roll No:** RA2411029010014  
+**Roll No:** MA2411020010018  
 
 ## Repository Structure
 
@@ -13,7 +14,7 @@
 - `Q1_missing_value_handling.py`: Solution for Q1 (Smart Missing Value Handling).
 - `Q2_string_manipulation.py`: Solution for Q2 (Complex String Manipulation with Duplicate Handling).
 - `Q6_multi_file_wrangling.py`: Solution for Q6 (Multi-File Data Wrangling).
-- `RA2411029010014_KaranPullagal_DS_Lab_Assignment.docx`: Combined Word Document assignment solution.
+- `MA2411020010018_KaranPullagal_DS_Lab_Assignment.docx`: Combined Word Document assignment solution.
 
 ## Questions Solved
 
@@ -23,3 +24,6 @@
 
 ### Note
 Code files can be run independently after producing dataset files via `python setup_datasets.py`.
+=======
+# DS_Lab_Assignment_RA2411029010014
+>>>>>>> 8fdd82b4edeb2b8a7edcd50827fd9fdb147b2224
